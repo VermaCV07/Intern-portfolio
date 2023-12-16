@@ -35,7 +35,7 @@ nav{
 .nav-bar ul li a{
     text-decoration: none;
     display: block;
-    color: #ffff;
+    color: rgb(199, 221, 228);
     font-size: 16px;
     padding: 5px 15px;
     transition: 0.2s;
